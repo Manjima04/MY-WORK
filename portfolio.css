@@ -269,15 +269,13 @@ h3{
         }
 .b2:hover{
     background-color:#93e788;
-
 }
          
         .mydiv6 {
           height: 1000px;;
           width:100%;
-         
-        
-        }
+            background-color:aqua;
+}
 
         .mydiv6 h1{
           font-size: 50px;
@@ -371,7 +369,7 @@ h3{
           text-align: center;
           font-size: 30px;
         }
-        .b2:hover{
+        .c3:hover{
     background-color:#93e788;
 
 }
