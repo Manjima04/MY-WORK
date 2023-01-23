@@ -220,6 +220,7 @@ h3{
           padding: 2px;
           display: inline-block;
           font-size: 30px;
+            cursor: pointer;
         }
         .b1 #h1{
           color: black;
@@ -249,6 +250,7 @@ h3{
           padding: 2px;
           display: inline-block;
           font-size: 30px;
+              cursor: pointer;
         }
         .b2 #h1{
           color: black;
@@ -295,6 +297,7 @@ h3{
           padding: 2px;
           display: inline-block;
           font-size: 20px;
+             cursor: pointer;
         }
         .c1 #h1{
           color: black;
@@ -325,6 +328,7 @@ h3{
           padding: 2px;
           display: inline-block;
           font-size: 20px;
+              cursor: pointer;
         }
         .c2 #h1{
           color: black;
@@ -350,7 +354,8 @@ h3{
           margin-left: 550px;
           position:absolute;
           margin-top: 600px;
-          padding-left: 20px; 
+          padding-left: 20px;
+              cursor: pointer;
         }
         .c3 #h1{
           color: black;
