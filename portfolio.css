@@ -236,6 +236,9 @@ h3{
           text-align: center;
           font-size: 30px;
         }
+.b1:hover{
+    background-color: #e2a7e4
+}
          .b2{
           width: 500px;
           height: 300px;
@@ -262,13 +265,18 @@ h3{
           text-align: center;
           font-size: 30px;
         }
+.b2:hover{
+    background-color:#93e788;
+
+}
          
         .mydiv6 {
           height: 1000px;;
           width:100%;
-          background-color:#ee8e76;
+         
         
         }
+
         .mydiv6 h1{
           font-size: 50px;
           font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -302,6 +310,9 @@ h3{
           text-align: center;
           font-size: 30px;
         }
+.c1:hover{
+    background-color:#7240e5;
+}
       
         
          .c2{
@@ -329,6 +340,9 @@ h3{
           text-align: center;
           font-size: 30px;
         }
+.c2:hover{
+    background-color:#628edf;
+}
          .c3{
           width: 500px;
           height: 300px;
@@ -352,7 +366,10 @@ h3{
           text-align: center;
           font-size: 30px;
         }
-        
+        .b2:hover{
+    background-color:#93e788;
+
+}
         
        
            
